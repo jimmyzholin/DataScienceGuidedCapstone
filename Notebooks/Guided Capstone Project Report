@@ -1,0 +1,13 @@
+Big Mountain Resort wanted to increase its profits through increasing its ticket price or by reducing its operating costs. 
+
+By looking at resorts around the nation, we saw certain features correlated to higher ticket prices. The more fast quads, higher vertical drop, larger snow making acres, and total runs at a resort meant the ticket price was higher at these resorts. Big Mountain Resort could achieve a higher ticket price by investing in improving/increasing these features, as they did with adding an extra chair lift. For example, increasing the vertical drop by 150 feet may allow Big Mountain Resort to increase its adult weekend ticket price by $1.24 which would result in $2,171,296 of revenue over that season. In another instance, increasing the snow making acreage by two acres also results in a higher ticket price of $1.24 and a increase to seasonal revenue of around $2.1 million.
+
+It was also discovered that a certain number of features could be removed without much impact to ticket price. By removing a certain amount of features operation costs would decrease without a fall in revenue. For example, decreasing the number of runs by two apears to have the same effect on ticket price asnot reducing runs at all. Reducing the number of runs by six appears to result in the need to reduce ticket price by $1.20 but this appears to have the same effect as reducing the number of runs by three.
+
+
+Big Mountain Resort
+Vertical_drop = 2353
+fastQuads = 3
+runs = 105
+adult weekend = 81
+snow making acres = 600
